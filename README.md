@@ -2,7 +2,7 @@
 
 本文档收集整理了中山大学第一届人工智能新手赛的官方题解与非官方题解。
 
-该仓库会持续更新，欢迎各位选手以 `Pull Request` 的形式提交自己的 `write-up`（`players` 目录下以自己的昵称创建新文件夹，并在本文件的「来自选手」部分增加一行）。
+该仓库会持续更新，欢迎各位选手以 `Pull Request` 的形式提交自己的 `write-up`（`players` 目录下以自己的昵称创建新文件夹，并在本文件的「选手题解」部分增加一行）。
 
 比赛平台：[https://neuronspark.sysumsc.cn/](https://neuronspark.sysumsc.cn/)
 
